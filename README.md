@@ -12,7 +12,7 @@ Gathered and recorded data from personal garden in order to run calculations and
 - **Low:**  The daily low temperature in degrees fahrenhite. 
 - **High:**  The daily high temperature in degrees fahrenhite. 
 - **Temp_Diff:**  The difference between the daily high and low temperature. 
-- **Rain:**  Daily rain fall in inches
+- **Rain:**  Daily rain fall in inches.
 - **Growth:**  Increase in plant size from the prior measurement in inches. In other words how much bigger a plant has become since the last instance of recording. 
 - **Pruned:**  Was the plant pruned on the given date. 
 - **Quadrant:**  After dividing the garden up into four equally sized quadrants, which of the four quadrants the plant is in. 
