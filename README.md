@@ -4,6 +4,9 @@ Utilized real time data gathered from personal garden to see if there are any im
 # Data Set Utilized
 Gathered and recorded data from personal garden in order to run calculations and computations to determine growth over time. 
 
+**Kaggle Direct Link**
+https://kaggle.com/datasets/7f9e5720ddb5507dc7430b9a48439fb0e7b118fb26913da89a7f89a036ed227c
+
 **Data Description**
 
 - **Date:**  Date underwhich the data was recorded. 
