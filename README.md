@@ -29,3 +29,6 @@ https://kaggle.com/datasets/7f9e5720ddb5507dc7430b9a48439fb0e7b118fb26913da89a7f
 - **Visibility:**  The maximum range which a person should be able to see infront of them at any given time in miles.
 - **AQI:**  The Air Quality Index (AQI) how clean or polluted the air is on a given day, with the lower being better and more clean air for you to be able to breathe.
 - **Pollen:**  The amount of pollen which is in the air. 
+
+# Methods Used
+During this analysis, three major methods were used. Linear Regression, Time Series Analysis utilizing an Autoregressive model with lag 16, and a Decision Tree. Of these, the Time Series model proved to be the most effective at forecasting both growth and rain fall. 
