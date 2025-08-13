@@ -32,3 +32,6 @@ https://kaggle.com/datasets/7f9e5720ddb5507dc7430b9a48439fb0e7b118fb26913da89a7f
 
 # Methods Used
 During this analysis, three major methods were used. Linear Regression, Time Series Analysis utilizing an Autoregressive model with lag 16, and a Decision Tree. Of these, the Time Series model proved to be the most effective at forecasting both growth and rain fall. 
+
+**Linear Regression**
+This is a method of predicting a target variable, with one of more predictor variables. 
